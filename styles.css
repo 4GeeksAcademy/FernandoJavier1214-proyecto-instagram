@@ -1,0 +1,36 @@
+body {
+    background-color: gainsboro;
+    margin:0%;
+}
+header {
+    background: white;
+    padding: 10px;
+    
+}
+header h1 {
+    text-align: center;
+
+}
+p {
+    padding: 5px;
+}
+div.post {
+    background: white;
+}
+div.post img {
+    width: 100%;
+}
+.post {
+    width: 600px;
+    margin: auto;
+    margin-top: 30px;
+    border: solid 1px black;
+    
+}   
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+
+}
